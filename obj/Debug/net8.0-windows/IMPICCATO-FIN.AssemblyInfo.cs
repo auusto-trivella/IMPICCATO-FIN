@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IMPICCATO-FIN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff5dbcff00ceff4b6aad622ec1bc8367035ecf72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3021576f0a8198e74fd99adc4415f2b3bb5bfe7")]
 [assembly: System.Reflection.AssemblyProductAttribute("IMPICCATO-FIN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IMPICCATO-FIN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
