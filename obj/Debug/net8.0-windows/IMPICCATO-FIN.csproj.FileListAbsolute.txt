@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\bin\Debug\net8.0-windows\IMPICCATO-FIN.exe
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\bin\Debug\net8.0-windows\IMPICCATO-FIN.deps.json
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\bin\Debug\net8.0-windows\IMPICCATO-FIN.runtimeconfig.json
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\bin\Debug\net8.0-windows\IMPICCATO-FIN.dll
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\bin\Debug\net8.0-windows\IMPICCATO-FIN.pdb
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\obj\Debug\net8.0-windows\IMPICCATO_FIN.Form1.resources
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\obj\Debug\net8.0-windows\IMPICCATO-FIN.csproj.GenerateResource.cache
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\obj\Debug\net8.0-windows\IMPICCATO-FIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\obj\Debug\net8.0-windows\IMPICCATO-FIN.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\obj\Debug\net8.0-windows\IMPICCATO-FIN.AssemblyInfo.cs
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\obj\Debug\net8.0-windows\IMPICCATO-FIN.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\obj\Debug\net8.0-windows\IMPICCATO-FIN.dll
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\obj\Debug\net8.0-windows\refint\IMPICCATO-FIN.dll
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\obj\Debug\net8.0-windows\IMPICCATO-FIN.pdb
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\obj\Debug\net8.0-windows\IMPICCATO-FIN.genruntimeconfig.cache
+C:\Users\User\Desktop\IMPICCATO-FIN\IMPICCATO-FIN\obj\Debug\net8.0-windows\ref\IMPICCATO-FIN.dll
